@@ -20,3 +20,17 @@ Recursos de xarxa i etc per síntesi 2017 2018
 ## NAS/SAN
 - https://www.ecured.cu/Red_de_%C3%A1rea_de_almacenamiento
 - https://echaleunvistazo.wordpress.com/2014/01/22/instalacion-de-freenas-y-configurar-iscsi/
+
+## RASPBERRYS
+- https://www.pine64.org/
+
+## Docker
+- https://hub.docker.com/r/emieza/zenphoto/
+- https://hub.docker.com/r/pautome/repo/
+- https://cacauet.org/wiki/index.php/Docker
+
+## Pfsense
+- https://nguvu.org/
+- https://doc.pfsense.org/index.php/OpenVPN_Site_To_Site
+- 
+
